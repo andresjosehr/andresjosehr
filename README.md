@@ -50,5 +50,3 @@
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andresjosehr.andresjosehr) ⭐️ **¿Te gusta mi trabajo?** ¡Dale estrella a mis repos!
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
