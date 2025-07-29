@@ -2,58 +2,44 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&width=435&lines=Fullstack+Developer;+10%2B+a%C3%B1os+de+experiencia;Angular+%26+Laravel+Expert;Construyendo+el+futuro+web)
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🚀 Sobre mí
+**Fullstack Developer** con **+10 años** especializándome en **Angular** y **Laravel**. Líder técnico apasionado por el código limpio y soluciones escalables.
 
-Soy un **Fullstack Developer** con **+10 años de experiencia** creando soluciones web que importan. Me especializo en **Angular** y **Laravel**, y me apasiona escribir código limpio, reutilizable y escalable que hace de la web un lugar mejor.
+### 🎯 Actualmente
+- 💼 Líder técnico y arquitecturas importantes
+- 🔧 Plataformas de gestión empresarial  
+- 📈 CI/CD y mejores prácticas
 
-He cubierto roles como **Analista de sistemas**, **Backend developer**, **Frontend developer** y **Líder técnico**. Me encanta resolver problemas complejos y aportar valor a cada proyecto en el que trabajo.
+### 🛠️ Stack Principal
+- **Frontend**: Angular, TypeScript, RxJS, SASS
+- **Backend**: Laravel, PHP, MySQL
+- **Tools**: Git, Docker, WebSockets
+- **CMS**: WordPress, Custom Plugins
 
-### 🎯 Lo que hago actualmente
-- 💼 **Líder técnico** tomando decisiones arquitectónicas importantes
-- 🔧 **Desarrollando plataformas** de gestión empresarial complejas
-- 📈 **Implementando CI/CD** y mejores prácticas de desarrollo
-
-## 🛠️ Stack Tecnológico
-
-```typescript
-const jose = {
-    frontend: ['Angular', 'TypeScript', 'RxJS', 'SASS', 'Angular Material'],
-    backend: ['Laravel', 'PHP', 'Node.js', 'MySQL'],
-    tools: ['Git', 'Docker', 'CI/CD', 'WebSockets'],
-    cms: ['WordPress', 'Custom Plugins'],
-    other: ['Chart.js', 'Bootstrap', 'Responsive Design']
-}
-```
-
-## 🌟 Proyectos Destacados
-
-### 💼 Gisselle - Plataforma de Gestión Empresarial
-Sistema complejo de gestión interna con departamentos de ventas, cobranza y seguimiento. Incluye **WebSockets**, **Laravel Jobs**, integraciones con WordPress y APIs externas.
-
-### 📊 Emelteciot - Dashboard de Monitoreo
-Aplicación de monitoreo en tiempo real con **Chart.js** para visualización de datos, desarrollada con Angular y Laravel.
-
-### ✈️ Vas Aviation - Sistema de Combustible
-Plataforma de seguimiento para solicitudes de combustible de aeronaves con **módulo de correo**, **notificaciones en tiempo real** y **manejo de archivos CSV**.
+</td>
+<td width="50%">
 
 ## 📈 GitHub Stats
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresjosehr&show_icons=true&theme=tokyonight&hide_border=true)
 
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresjosehr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresjosehr&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresjosehr&layout=compact&theme=tokyonight)
+</td>
+</tr>
+</table>
 
-## 🎨 Mi Filosofía de Desarrollo
+## 🎨 Mi Filosofía
 
-> "Escribir código no es solo resolver problemas, es crear soluciones elegantes que perduren en el tiempo"
+> *"Escribir código no es solo resolver problemas, es crear soluciones elegantes que perduren en el tiempo"*
 
 - 🧹 **Código limpio** y bien documentado
-- 🔄 **Refactorización constante** para mejorar la calidad
+- 🔄 **Refactorización constante** para mejorar la calidad  
 - 📋 **Buenas prácticas** y estándares de desarrollo
-- 🚀 **Optimización** de rendimiento y experiencia de usuario
-
-## 🌍 Experiencia Internacional
-
-He trabajado con equipos multiculturales y manejado proyectos para diferentes mercados, siempre enfocándome en entregar **soluciones de calidad** que superen las expectativas.
+- 🚀 **Optimización** de rendimiento y UX
 
 ## 📫 ¡Conectemos!
 
@@ -63,8 +49,6 @@ He trabajado con equipos multiculturales y manejado proyectos para diferentes me
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andresjosehr.andresjosehr)
-
-⭐️ **¿Te gusta mi trabajo?** ¡No olvides darle una estrella a mis repositorios!
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andresjosehr.andresjosehr) ⭐️ **¿Te gusta mi trabajo?** ¡Dale estrella a mis repos!
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
